@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @PanzariuAdi
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently studying Software Engineering at Faculty of Computer Science in Iasi.
-- 🌱 I’m currently working as a Software Developer at Endava.
-- 📫 How to reach me : 
-  -  linkedin : https://www.linkedin.com/in/adi-p%C3%A2nzariu-8978371a4/
-  -  gmail: panzariu.adi00@gmail.com
+# Panzariu Ionut-Adrian 👋
 
-<!---
-PanzariuAdi/PanzariuAdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Panzariu Ionut-Adrian, a Software Developer and a master's degree student in Software Engineering at the Faculty of Computer Science in Iasi. Currently, I work at Endava.
+
+## My Interests 🧐
+
+- Software Development
+- Software Engineering
+- Fullstack technologies
+
+## Skills 💪
+
+- Proficient in languages such as Java and Python.
+- Experience with front-end technologies such as Angular and React.
+- Familiar with software development methodologies such as Agile and Scrum.
+
+Feel free to contact me if you have any questions or would like to collaborate on a project. 🤝
