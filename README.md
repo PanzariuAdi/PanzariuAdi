@@ -5,8 +5,6 @@ Hi, I'm Panzariu Ionut-Adrian, a Software Developer and a master's degree studen
 ## My Interests 🧐
 
 - Software Development
-- Software Engineering
-- Fullstack technologies
 
 ## Skills 💪
 
