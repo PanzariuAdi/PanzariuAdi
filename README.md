@@ -1,5 +1,7 @@
 # Panzariu Ionut-Adrian 👋
 
+![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
+
 Hi, I'm Panzariu Ionut-Adrian, a Software Developer and a master's degree student in Software Engineering at the Faculty of Computer Science in Iasi. Currently, I am working at Endava.
 
 ## My Interests 🧐
